@@ -9,4 +9,4 @@ Hello dear visitor. Welcome to my virtual software home. Here you wil find some 
 More to come here soon !
 
 ## Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=wenqiglantz&theme=light">
+<img src="https://github-readme-stats.vercel.app/api?username=mcgivrer&theme=light">
