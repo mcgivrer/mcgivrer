@@ -3,7 +3,9 @@
 ## Who Am I ?
 
 Hello dear visitor. Welcome to my virtual software home.
-I am a former software developer, now acting as a platform architect in a world sized pharmaceutical life science industry. (This is topsecret and I won't tell you becasue I would have to make you "disapear" :)
+
+I am a former software developer, now acting as a platform architect in a world sized pharmaceutical life science industry (but this is topsecret and I won't tell you becasue I would have to make you "disapear" :)
+
 Anyway, here is my personal playground around java (but not only !) software development, you will find some results from my own research about software architecture usage, pattern, tooling and librabries usages.
 My center of interest are any tool/doftware that can drive to a better and well managed software, from ideation to production. 
 
