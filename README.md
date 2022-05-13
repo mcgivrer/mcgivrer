@@ -10,7 +10,7 @@ Hello dear visitor. Welcome to my virtual software home.
 <img alt="Red: create test, Green: Code passing test, Refactor: clean code" src="./images/RGR-Mantra.png" title="The RGR Mantra" align="right" width="200px"/>Anyway, here is my personal playground around java (but not only !) software development, you will find some results from my own research about software architecture usage, pattern, tooling and librabries usages.
 My center of interest are any tool/software that can drive to a better and well managed software, from ideation to production. 
 
-I will try and use some [TDD](https://en.wikipedia.org/wiki/Test-driven_development "Go to the TDD wikipedia description") approach, maybe [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development "Go to the BDD wikipedia description"), but moreover, [good documentation principles](https://www.writethedocs.org/ "Write the docs !") (only personal point of view and experiment) and build automation with cloud offered platform like the github one. 
+I will try and use some [TDD](https://en.wikipedia.org/wiki/Test-driven_development "Go to the TDD wikipedia description") approach, maybe [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development "Go to the BDD wikipedia description"), but moreover, [good documentation principles](https://www.writethedocs.org/guide/ "Write the docs !") (only personal point of view and experiment) and build automation with cloud offered platform like the github one. 
 
 ## Blog
 
