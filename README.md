@@ -1,3 +1,4 @@
+[![McGivrer SkyLine 2021](./images/github-mcgivrer-skyline-2021.jpg "McGivrer SkyLine 2021 edition")](https://skyline.github.com/mcgivrer/2021 "Go and see the dynamic skyline for 2021")
 # McGivrer's place
 
 ## Who Am I ?
