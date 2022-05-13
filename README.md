@@ -5,12 +5,12 @@
 
 Hello dear visitor. Welcome to my virtual software home.
 
-<img alt="McGivrer's outdoor photo" src="./images/mcgivrer-avatar-2021.jpg" title="McGivrer !" align="right"/>I am a former software developer, now acting as a platform architect in a world sized pharmaceutical life science industry (but this is topsecret and I won't tell you becasue I would have to make you "disapear" :) 
+<img alt="McGivrer's outdoor photo" src="./images/mcgivrer-avatar-2021.jpg" title="McGivrer !" align="left"/>I am a former software developer, now acting as a platform architect in a world sized pharmaceutical life science industry (but this is topsecret and I won't tell you becasue I would have to make you "disapear" :) 
 
-Anyway, here is my personal playground around java (but not only !) software development, you will find some results from my own research about software architecture usage, pattern, tooling and librabries usages.
+<img alt="Red: create test, Green: Code passing test, Refactor: clean code" src="./images/RGR-Mantra.png" title="The RGR Mantra" align="right" width="200px"/>Anyway, here is my personal playground around java (but not only !) software development, you will find some results from my own research about software architecture usage, pattern, tooling and librabries usages.
 My center of interest are any tool/software that can drive to a better and well managed software, from ideation to production. 
 
-I will try and use some BDD approach, good documentation principles (only personal point of view and experiment) and build automation with cloud offered platform like the github one. 
+I will try and use some [TDD](https://en.wikipedia.org/wiki/Test-driven_development "Go to the TDD wikipedia description") approach, maybe [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development "Go to the BDD wikipedia description"), but moreover, [good documentation principles](https://www.writethedocs.org/ "Write the docs !") (only personal point of view and experiment) and build automation with cloud offered platform like the github one. 
 
 ## Blog
 
