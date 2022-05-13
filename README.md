@@ -13,7 +13,7 @@ I will try and use some BDD approach, good documentation principles (only person
 
 ## Blog
 
-- **UPDATED** [A v3 script to build light java project](https://gist.github.com/mcgivrer/a31510019029eba73edf5721a93c3dec#file-readme-md), but with some limitation.
+- **NEW 2022-05-13** [A v4 script to build light java project](https://gist.github.com/mcgivrer/a31510019029eba73edf5721a93c3dec#file-readme-md), now with javadoc generation and unit test exection thanks to the "junit platform console standalone",
 - [My own Git Survival guide](https://gist.github.com/mcgivrer/81f67eddf93b0a9d46cac5f1ff4e45c6#file-git-survival-guide-md),
 - [Git Bash as IntelliJ default Terminal](https://gist.github.com/mcgivrer/2b9917230588f3987d6acd4750ecf5c9#file-intellij-trick-and-tips-md "GitBash as terminal"),
 - [Powerline and tmux on Ubuntu](https://gist.github.com/mcgivrer/63415530034a2a6f4cc968862c3d9e9d "see the magic recipe")
