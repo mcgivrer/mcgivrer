@@ -14,7 +14,7 @@ I will try and use some [TDD](https://en.wikipedia.org/wiki/Test-driven_developm
 
 ## Blog
 
-- **NEW 2022-05-20** [A v4.1 script to build light java project](https://gist.github.com/mcgivrer/a31510019029eba73edf5721a93c3dec#file-readme-md), havining already the javadoc generation and unit test exection thanks to the "junit platform console standalone", now it is able to create an EPUB file from the /docs markdown docuemntation files, thanks to the fantastic tool [pandoc](https://pandoc.org "Let's have a try with pandoc !"),
+- **NEW 2022-05-20** [A v4.1 script to build light java project](https://gist.github.com/mcgivrer/a31510019029eba73edf5721a93c3dec#file-readme-md), havining already the javadoc generation and unit test exection thanks to the "junit platform console standalone", now it is able to create an EPUB file from the /docs markdown documentation files, respecting a file and directory structure and thanks to the fantastic tool [pandoc](https://pandoc.org "Let's have a try with pandoc !"),
 - [My own Git Survival guide](https://gist.github.com/mcgivrer/81f67eddf93b0a9d46cac5f1ff4e45c6#file-git-survival-guide-md),
 - [Git Bash as IntelliJ default Terminal](https://gist.github.com/mcgivrer/2b9917230588f3987d6acd4750ecf5c9#file-intellij-trick-and-tips-md "GitBash as terminal"),
 - [Powerline and tmux on Ubuntu](https://gist.github.com/mcgivrer/63415530034a2a6f4cc968862c3d9e9d "see the magic recipe")
