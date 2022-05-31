@@ -31,6 +31,7 @@ I will try and use some [TDD](https://en.wikipedia.org/wiki/Test-driven_developm
 
 - **[FromClassToGame](https://github.com/mcgivrer/fromClassToGame)** _&lt;Work In Progress&gt;_<br/>
 A Work in progress [java gamedev guide](https://github.com/mcgivrer/fromClassToGame/blob/main/docs/index.md) starting from a simple Java class, and going step by step to a game framework implementation.
-You Can contribute to the development throught the [good first issues](https://github.com/mcgivrer/fromClassToGame/contribue).
+You Can contribute to the development throught the [good first issues](https://github.com/mcgivrer/fromClassToGame/contribute).
+
 ## Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=mcgivrer&theme=light">
