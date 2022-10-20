@@ -21,6 +21,8 @@ I will try and use some [TDD](https://en.wikipedia.org/wiki/Test-driven_developm
 > It's purpose is only to provide a fast way and an ease of usage to build ridiculous small java project.
 > But without sacrifying build features.
 
+
+- [A standard all included Maven JAR project](https://gist.github.com/mcgivrer/d0b44b343b60196ce9cfde75963eac99 "Just start Jar poject with that pom.xml")
 - [My own Git Survival guide](https://gist.github.com/mcgivrer/81f67eddf93b0a9d46cac5f1ff4e45c6#file-git-survival-guide-md),
 - [Git Bash as IntelliJ default Terminal](https://gist.github.com/mcgivrer/2b9917230588f3987d6acd4750ecf5c9#file-intellij-trick-and-tips-md "GitBash as terminal"),
 - [Powerline and tmux on Ubuntu](https://gist.github.com/mcgivrer/63415530034a2a6f4cc968862c3d9e9d "see the magic recipe")
