@@ -1,4 +1,5 @@
-[![McGivrer SkyLine 2021](./images/github-mcgivrer-skyline-2021.jpg "McGivrer SkyLine 2022 edition")](https://skyline.github.com/mcgivrer/2022 "Go and see the dynamic skyline for 2022")
+[![McGivrer SkyLine](https://github.com/mcgivrer/mcgivrer/assets/216852/aa8da835-ea3e-4c53-87a8-27eea68bf315 "McGivrer SkyLine 2022 edition")](https://skyline.github.com/mcgivrer/2022 "Go and see the dynamic skyline for 2022")
+
 # McGivrer's place
 
 ## Who Am I?
