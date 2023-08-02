@@ -15,6 +15,7 @@ I will try and use some [TDD](https://en.wikipedia.org/wiki/Test-driven_developm
 
 ## Blog
 
+- **2023-08-02** [Build scripts v4.2](https://gist.github.com/mcgivrer/a31510019029eba73edf5721a93c3dec "go and use the latest build scripts 4.2") is coming with some cool new features like JUnit test execution (thanks to [junit-platform-console-standalone](https://mvnrepository.com/artifact/org.junit.platform/junit-platform-console-standalone) library) at build time and or at test only execution, and simplification of build script usage by adding a build.properties at the root path of the java project.
 - **NEW 2022-05-20** [A v4.1 script to build light java project](https://gist.github.com/mcgivrer/a31510019029eba73edf5721a93c3dec#file-readme-md), having already the Javadoc generation and unit test execution thanks to the "JUnit platform console standalone".Now it can create an EPUB file from the /docs markdown documentation files, respecting a file and directory structure, and thanks to the fantastic tool [pandoc](https://pandoc.org "Let's have a try with pandoc !"),
 
 > **WARNING** 
