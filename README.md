@@ -1,5 +1,4 @@
-[![McGivrer SkyLine]([https://github.com/mcgivrer/mcgivrer/assets/216852/aa8da835-ea3e-4c53-87a8-27eea68bf315](https://raw.githubusercontent.com/mcgivrer/mcgivrer/main/images/mcgivrers%202023%20GitHub%20Skyline.png) "McGivrer SkyLine 2023 edition")](https://skyline.github.com/mcgivrer/2023 "Go and see the dynamic skyline for 2023")
-
+[![McGvrer skyne 2023](https://raw.githubusercontent.com/mcgivrer/mcgivrer/main/images/mcgivrers%202023%20GitHub%20Skyline.png)](https://skyline.github.com/mcgivrer/2023)
 # McGivrer's place
 
 ## Who Am I?
