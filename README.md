@@ -8,13 +8,14 @@ Hello dear visitor. Welcome to my virtual software home.
 
 <img alt="McGivrer's outdoor photo" src="./images/mcgivrer-avatar-2021.jpg" title=" McGivrer !" align="left"/>I am a former software developer, now acting as a platform architect in a world-sized pharmaceutical life science industry (but this is top secret and I won't tell you because I would have to make you "disappear" :) 
 
-<img alt="Red: create test, Green: Code passing test, Refactor: clean code" src="./images/RGR-Mantra.png" title="The RGR Mantra" align=" right" width="200px"/>Anyway, here is my playground around java (but not only !) software development, you will find some results from my research about software architecture usage, pattern, tooling and libraries usages.
+<img alt="Red: create test, Green: Code passing test, Refactor: clean code" src="./images/RGR-Mantra.png" title="The RGR Mantra" align=" right" width="200px"/>Anyway, here is my playground around java (but not only !) software development, but you will also find some results from my research about software architecture usage, pattern, tooling and libraries usages.
 My center of interest is any tool/software that can drive better and well-managed software, from ideation to production. 
 
 I will try and use some [TDD](https://en.wikipedia.org/wiki/Test-driven_development "Go to the TDD Wikipedia description") approach, maybe [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development "Go to the BDD Wikipedia description"), but moreover, [good documentation practices](https://www.writethedocs.org/guide/ "Write the docs !") (only personal point of view and experiment) and build automation with cloud offered platform like the GitHub one. 
 
 ## McG's devlog
 
+- **2024-06-11** update of the build script now in the [5.2 version](https://gist.github.com/mcgivrer/3fe8a25a2815bca3a1a7f333f6944665 "go and test it !") adding more control on build steps and manage JAR dependencies. It adds a code quality check with CheckStyle with 2 default sets of code rules (choose between Sun or Google rules), the Javadoc now embeds the README.md file as an overview file.  
 - **LATEST 2023-08-02** [Build scripts v4.2](https://gist.github.com/mcgivrer/a31510019029eba73edf5721a93c3dec "go and use the latest build scripts 4.2") is coming with some cool new features like JUnit test execution (thanks to [junit-platform-console-standalone](https://mvnrepository.com/artifact/org.junit.platform/junit-platform-console-standalone) library) at build time or just execute unit tests 'on-demand', and simplification of build script usage by adding a `build.properties` at the root path of the java project.
 - **2022-05-20** [A v4.1 script to build light java project](https://gist.github.com/mcgivrer/a31510019029eba73edf5721a93c3dec#file-readme-md), having already the Javadoc generation and unit test execution thanks to the "JUnit platform console standalone".Now it can create an EPUB file from the /docs markdown documentation files, respecting a file and directory structure, and thanks to the fantastic tool [pandoc](https://pandoc.org "Let's have a try with pandoc !"),
 
