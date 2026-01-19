@@ -18,6 +18,8 @@ I experiment with approaches like [TDD](https://en.wikipedia.org/wiki/Test-drive
 ### **2026-01-18** [Bash Coding rules](https://gist.github.com/mcgivrer/bf813219c9613c5b1c516d5c8e61a353)
 This simple page will centralize some basic rules of bash coding to get simple and efficient bash scripts.
 
+---
+
 ### **2025-01-02**: [Java Init 1.4](https://gist.github.com/mcgivrer/2770cf06be8702789b2f320c3274de60)  
 A new Bash script designed to quickly bootstrap Java projects with pre-configured templates.  
 - **Features**:  
