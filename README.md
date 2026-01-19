@@ -18,6 +18,40 @@ I experiment with approaches like [TDD](https://en.wikipedia.org/wiki/Test-drive
 ### **2026-01-18** [Bash Coding rules](https://gist.github.com/mcgivrer/bf813219c9613c5b1c516d5c8e61a353)
 This simple page will centralize some basic rules of bash coding to get simple and efficient bash scripts.
 
+### **2026-01-06** [Mini Build Script version 1.5](https://gist.github.com/mcgivrer/b95bf476b8494c180c0a386a5ae11264)
+A Mini build script to quickly build mini java project.  You will have to adapt a bit the script:
+Modify the `PROJECT_NAME`, `PROJECT_VERSION` and `PROJECT_MAIN_CLASS_NAME` variables to fit your own project.
+The generated JARs will be named as target/build/[PROJECT_NAME]-App-[PROJECT_VERSION].jar
+
+>**NOTE:** `MAIN_CLASS` is a list of space-separated classes that generate as many JAR files as listed classes.
+> - Add external JAR dependencies (mostly in ./libs) by using the JARS variable.
+>e.g.: JARS="./libs/flexmark-all-0.64.8-lib.jar ./libs/org.eclipse.jgit-7.2.0.202503040940-r.jar"
+> - You can set some compilation options in COMPILATION_OPTS
+> - Define the Java version SOURCE_VERSION variable
+> - Set default source encoding into SOURCE_ENCODING (default is UTF-8)
+
+EXAMPLES:
+
+to build your project:
+Example 1:
+    build
+will execute all the following steps
+- clean (c), 
+- build (b), 
+- create a manifest (m), 
+- create a jar(j) to `/target/build`,
+
+Example 2:
+  build c b m j t d s
+Will 
+ - clean (c), 
+ - build (b), 
+ - create a manifest (m), 
+ - create a jar(j) to `/target/build`,
+ - execute unit tests (t) from `src/test`,
+ - generate javadoc (d) to `/target`,
+ - generate sources jar (s) to `/target`.
+
 ---
 
 ### **2025-01-02**: [Java Init 1.4](https://gist.github.com/mcgivrer/2770cf06be8702789b2f320c3274de60)  
