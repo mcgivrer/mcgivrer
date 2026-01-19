@@ -65,7 +65,8 @@ Contributions are welcome via [good first issues](https://github.com/mcgivrer/fr
 - [Java CLI survival guide](https://gist.github.com/mcgivrer/e4e12e5701c18678e2340725d519cea6)
 - [Maven Project Template](https://gist.github.com/mcgivrer/d0b44b343b60196ce9cfde75963eac99)  
 - [Git Survival Guide](https://gist.github.com/mcgivrer/81f67eddf93b0a9d46cac5f1ff4e45c6)  
-- [Setting Git Bash as IntelliJ Terminal](https://gist.github.com/mcgivrer/2b9917230588f3987d6acd4750ecf5c9)  
+- [Setting Git Bash as IntelliJ Terminal](https://gist.github.com/mcgivrer/2b9917230588f3987d6acd4750ecf5c9)
+- [Bash script's coding rules](https://gist.github.com/mcgivrer/bf813219c9613c5b1c516d5c8e61a353)
 
 ---
 ## Statistics
