@@ -15,6 +15,11 @@ I experiment with approaches like [TDD](https://en.wikipedia.org/wiki/Test-drive
 
 ## Recent Updates
 
+### **2026-02-08** [Bloggy](https://github.com/mcgivrer/bloggy) 
+A new static web page generator based on markdown content (supporting PlantUML and code highlight), with a templates mechanism
+and categories management. The project will soon be released to the public, fixing some of the latest annoying bugs and adding
+missing navigation features.
+
 ### **2026-01-18** [Bash Coding rules](https://gist.github.com/mcgivrer/bf813219c9613c5b1c516d5c8e61a353)
 This simple page will centralize some basic rules of bash coding to get simple and efficient bash scripts.
 
