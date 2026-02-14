@@ -15,6 +15,15 @@ I experiment with approaches like [TDD](https://en.wikipedia.org/wiki/Test-drive
 
 ## Recent Updates
 
+### **2026-02-14** [build+package](https://gist.github.com/mcgivrer/66e46be75ef7a42ba2a15fd357c80d9e)
+A brand new build script for a Java project, keeping a minimalistic approach and integrating:
+- build Java sources,
+- Execute unit test with JUNIT standalone version,
+- Build the corresponding JAR,
+- Create a minimal JRE,
+- Create a Launch script (BAT or bash, according to OS platform)
+- Package all resources  into a delivery ZIP package with OS dependency.
+
 ### **2026-02-08** [Bloggy](https://github.com/mcgivrer/bloggy) 
 A new static web page generator based on markdown content (supporting PlantUML and code highlight), with a templates mechanism
 and categories management. The project will soon be released to the public, fixing some of the latest annoying bugs and adding
