@@ -15,6 +15,18 @@ I experiment with approaches like [TDD](https://en.wikipedia.org/wiki/Test-drive
 
 ## Recent Updates
 
+### **2026-03-10** [MarkNote](https://github.com/mcgivrer/MarkNote "A markdown Notes editor")
+![MarkNote logo](https://github.com/mcgivrer/MarkNote/raw/main/src/main/resources/images/icons/marknote-64.png)
+A simple Markdown Note editor with some cool options.
+You will be able to 
+- organize your own notes in a standard repository,
+- tag them,
+- search and filter
+- Explore the notes in a Network diagram showing all direct links and tag links.
+
+The current release is 0.1.2 with an MIT license and available on Windows and Linux ( a MacOS version may come later).
+
+
 ### **2026-02-14** [build+package](https://gist.github.com/mcgivrer/66e46be75ef7a42ba2a15fd357c80d9e)
 A brand new build script for a Java project, keeping a minimalistic approach and integrating:
 - build Java sources,
