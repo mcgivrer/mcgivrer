@@ -15,6 +15,11 @@ I experiment with approaches like [TDD](https://en.wikipedia.org/wiki/Test-drive
 
 ## Recent Updates
 
+### **2026-04-13** [Humble Git survival guide (1.0.6)](https://gist.github.com/mcgivrer/81f67eddf93b0a9d46cac5f1ff4e45c6)
+The Humble Git survival guide has been updated 
+- A small add on how to list all branches, local and remote.
+
+
 ### **2026-03-10** [MarkNote](https://github.com/mcgivrer/MarkNote "A markdown Notes editor")
 ![MarkNote logo](https://github.com/mcgivrer/MarkNote/raw/main/src/main/resources/images/icons/marknote-64.png)
 A simple Markdown Note editor with some cool options.
